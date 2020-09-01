@@ -1,7 +1,7 @@
 # Robozzle
-Soluções do jogo
+Robozzle solutions
 
-## Desafios:
+## Challenges:
 
 <table>
         <tr>
