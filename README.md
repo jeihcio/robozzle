@@ -1,0 +1,32 @@
+# Robozzle
+Soluções do jogo
+
+## Desafios:
+
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-16-43-066_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-17-02-244_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-17-24-952_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-17-42-031_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-18-02-166_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-18-44-540_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-19-06-194_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-19-45-131_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-20-37-568_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-20-56-980_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-21-43-466_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-22-01-387_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-23-22-127_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-23-48-869_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-25-23-623_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-25-26-821_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-25-31-657_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-25-35-698_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-25-41-780_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-05-312_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-09-036_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-13-578_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-20-289_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-23-901_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-30-28-315_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-14-59-15-664_com.team242.robozzle.jpg)
+- [link](https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-15-23-19-901_com.team242.robozzle.jpg)
