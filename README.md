@@ -59,6 +59,41 @@ Robozzle solutions
         <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-24-05-019_com.team242.robozzle.jpg">level 1</a></td>
         <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-25-14-200_com.team242.robozzle.jpg">d</a></td>
     </tr>
+        <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-26-35-690_com.team242.robozzle.jpg">cosmonavt</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-27-44-790_com.team242.robozzle.jpg">Pyramid</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-34-37-451_com.team242.robozzle.jpg">ProMan</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-38-53-007_com.team242.robozzle.jpg">trojan</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-41-57-438_com.team242.robozzle.jpg">Loopy Loop</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-45-45-338_com.team242.robozzle.jpg">River </a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-47-23-597_com.team242.robozzle.jpg">Decisions, Decisions</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-49-04-512_com.team242.robozzle.jpg">Sum logic required (limited)</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-08-58-370_com.team242.robozzle.jpg">Necklace </a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-13-30-648_com.team242.robozzle.jpg">Letter T </a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-20-24-487_com.team242.robozzle.jpg">Quest</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-24-42-064_com.team242.robozzle.jpg">easy boucle</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-34-26-784_com.team242.robozzle.jpg">zip zag</a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-39-10-530_com.team242.robozzle.jpg">todo </a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-46-43-382_com.team242.robozzle.jpg">Brasil</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-48-14-671_com.team242.robozzle.jpg">Iteration </a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-52-53-513_com.team242.robozzle.jpg">Reverse Spiral </a></td>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-10-56-38-300_com.team242.robozzle.jpg">lalala</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-11-01-21-267_com.team242.robozzle.jpg">e</a></td>
+        <td></td>
+        <td></td>
+    </tr>
     </table>
     
 ### Game Online
