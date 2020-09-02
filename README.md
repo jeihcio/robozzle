@@ -52,7 +52,7 @@ Robozzle solutions
         <tr>
             <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-18-02-18-595_com.team242.robozzle.jpg">tubes</a></td>
             <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-01-19-36-43-957_com.team242.robozzle.jpg">The Mysterious Stair</a></td>
-            <td></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-00-28-36-615_com.team242.robozzle.jpg">The Cross</a></td>
         </tr>       
     </table>
     
