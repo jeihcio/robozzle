@@ -82,6 +82,18 @@ Robozzle solutions
         <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-45-45-338_com.team242.robozzle.jpg">River </a></td>
 		 <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-01-47-23-597_com.team242.robozzle.jpg">Decisions, Decisions</a></td>
     </tr>
+	<tr>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-20-45-50-522_com.team242.robozzle.jpg">Learning stack 3</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-20-53-25-877_com.team242.robozzle.jpg">Recursion Review</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-22-34-24-053_com.team242.robozzle.jpg">Stacking for newbies</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-23-11-04-299_com.team242.robozzle.jpg">Fermat's spiral 2</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-02-23-52-25-621_com.team242.robozzle.jpg">Bumbling Bee</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-03-00-12-04-939_com.team242.robozzle.jpg">Straightforward</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-04-07-48-11-997_com.team242.robozzle.jpg">Boomerang</a></td>
+            <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-04-08-34-11-836_com.team242.robozzle.jpg">Enter, don't enter</a></td>
+        </tr>
  </table>
     
 ### Game Online
