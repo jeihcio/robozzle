@@ -98,8 +98,14 @@ Robozzle solutions
             <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-04-23-04-57-727_com.team242.robozzle.jpg">Tight Area</a></td>
             <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-05-00-41-25-767_com.team242.robozzle.jpg">Up then Down</a></td>
             <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-04-23-48-01-054_com.team242.robozzle.jpg">T is for trivial</a></td>
-		<td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-20-39-43-872_com.team242.robozzle.jpg">Turn around 2</a></td>
+	    <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-20-39-43-872_com.team242.robozzle.jpg">Turn around 2</a></td>
         </tr>
+	<tr>
+	   <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-21-50-32-863_com.team242.robozzle.jpg">Ladder</a></td>
+	   <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-22-01-30-171_com.team242.robozzle.jpg">good luck :P</a></td>
+	   <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-22-08-14-981_com.team242.robozzle.jpg">First Puzzle</a></td>
+	   <td><a href="https://raw.githubusercontent.com/jeihcio/robozzle/master/imagens/Screenshot_2020-09-06-22-12-11-215_com.team242.robozzle.jpg">swirls</a></td>
+	</tr>
  </table>
     
 ### Game Online
